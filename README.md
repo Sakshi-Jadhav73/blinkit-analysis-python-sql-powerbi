@@ -26,14 +26,15 @@ This project analyzes Blinkit dataset to generate business insights using Python
 ---
 
 ## 📁 Project Structure
+
 Blinkit-Data-Analysis/
 │── Dashboard/
 │── Images/
 │── Notebook/
 │── SQL/
 
----
 
+---
 ## 📊 Key Performance Indicators (KPIs)
 
 - **Total Sales**: Overall revenue generated from all items sold  

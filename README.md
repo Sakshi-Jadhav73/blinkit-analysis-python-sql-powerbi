@@ -85,7 +85,7 @@ Blinkit-Data-Analysis/
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Images/Screenshot 2026-04-13 220753.png)
+![Dashboard](Images/Screenshot_2026-04-13_220753.png)
 
 ---
 

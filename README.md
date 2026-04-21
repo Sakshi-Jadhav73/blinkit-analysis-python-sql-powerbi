@@ -69,7 +69,7 @@ Blinkit-Data-Analysis/
 
 * Evaluated how outlet type/age impacts sales
 
-### 5. Percentage of Sales by Outlet Size
+### 5. Sales by Outlet Size
 
 * Analyzed relationship between outlet size and sales
 

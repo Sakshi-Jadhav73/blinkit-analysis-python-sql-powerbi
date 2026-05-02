@@ -22,7 +22,7 @@ This project analyzes Blinkit dataset to generate business insights using Python
 
 ## 🛠 Tools & Technologies
 
-* Python (Pandas, NumPy, Matplotlib)
+* Python (Pandas, NumPy, Matplotlib,seaborn)
 * SQL
 * Power BI
 
